@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
-  
+  <title>yangyimin的博客</title>
+  <icon>https://www.gravatar.com/avatar/c13b0c551647c3f9211dd2569db3954d</icon>
+  <subtitle>胆小认生，不易相处</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="//hdsdau.xyz/"/>
   <updated>2017-09-19T08:14:23.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>//hdsdau.xyz/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>yangyimin</name>
+    <email>yangyimin.zju@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>辨析 Sass 中的 Map 和 List</title>
-    <link href="http://yoursite.com/2015/10/21/demo/"/>
-    <id>http://yoursite.com/2015/10/21/demo/</id>
+    <link href="//hdsdau.xyz/2015/10/21/demo/"/>
+    <id>//hdsdau.xyz/2015/10/21/demo/</id>
     <published>2015-10-21T02:34:12.000Z</published>
     <updated>2017-09-19T08:14:23.000Z</updated>
     
@@ -34,7 +34,7 @@
     </summary>
     
     
-      <category term="css" scheme="http://yoursite.com/tags/css/"/>
+      <category term="css" scheme="//hdsdau.xyz/tags/css/"/>
     
   </entry>
   
